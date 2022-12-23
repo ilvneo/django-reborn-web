@@ -1,6 +1,9 @@
 # Django Project - RE:BORN WEB
 
-
+{
+	"SECRET_KEY": "django-insecure-uw1uc7fbalw%@%+1(+e33k4kx(^hf+f6*kbmazp-4_e6cjt0a%",
+	"EMAIL_HOST_PASSWORD": ""
+}
 
 ## Description
 
