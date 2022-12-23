@@ -32,7 +32,8 @@ from django.core.exceptions import PermissionDenied
 
 from django.template.loader import render_to_string
 from django.utils.http import urlsafe_base64_encode,urlsafe_base64_decode
-from django.utils.encoding import force_bytes, force_text
+from django.utils.encoding import force_bytes
+from django.utils.encoding import force_str
 from django.contrib.auth.tokens import default_token_generator
 from datetime import datetime
 # from ipware.ip import get_ip

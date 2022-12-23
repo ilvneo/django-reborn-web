@@ -144,10 +144,10 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 # 네이버 SMTP
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.naver.com'
-EMAIL_HOST_USER = 'injecs2020'
+EMAIL_HOST_USER = 'marc43'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-DEFAULT_FROM_MAIL = 'injecs2020'
+DEFAULT_FROM_MAIL = 'ilvneo'
 
 
 # IMAGE UPLOAD FILE SIZE MAXIMUM = 10MB
